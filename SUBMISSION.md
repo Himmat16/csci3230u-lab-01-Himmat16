@@ -5,16 +5,18 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Himmat Basra
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+Learnt about Github version control. 
+
+Learnt How and why merge conflicts happens and how to solve them. 
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+Git commit. This is for when you are ready to commit your chances to a branch
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: Link
